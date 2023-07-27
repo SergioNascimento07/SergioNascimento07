@@ -3,8 +3,8 @@
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioNascimento07&show_icons=true)
 
 <div style="display: inline_block"><br>
-  <p>dd</p>
-  <p>ee</p>
+  <p width="10px">dd</p>
+  <p width="10px">ee</p>
 </div>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioNascimento07)](https://github.com/anuraghazra/github-readme-stats)
