@@ -2,7 +2,7 @@
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioNascimento07&show_icons=true)
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <p>dd</p>
   <p>ee</p>
 </div>
