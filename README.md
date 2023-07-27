@@ -1,6 +1,6 @@
 ### Olá eu sou o Sergio 👋
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioNascimento07&show_icons=true&theme=radical)
+![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioNascimento07&show_icons=true)
 - 🔭 Esou trabalhando principalmente na área de Back-end
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
