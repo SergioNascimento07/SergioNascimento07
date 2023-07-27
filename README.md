@@ -1,7 +1,7 @@
 ### Olá eu sou o Sergio 👋
 
 ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioNascimento07&show_icons=true)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioNascimento07)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioNascimento07&layout=compact)
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
