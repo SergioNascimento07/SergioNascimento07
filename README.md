@@ -1,7 +1,10 @@
 ### Olá eu sou o Sergio 👋
 
-![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?username=SergioNascimento07&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioNascimento07)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display: inline_block">
+    ![Sergio's GitHub stats](https://github-readme-stats.vercel.app/api?  username=SergioNascimento07&show_icons=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SergioNascimento07)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 - 🔭 Esou trabalhando principalmente na área de Back-end
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
